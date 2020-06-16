@@ -12,6 +12,7 @@
     "start-mongo": "bash ./util/start-mongo.sh",
     "seed-mongo": "node ./util/seed-database.js"
   },
+  
   "author": "",
   "license": "ISC",
   "dependencies": {
