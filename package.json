@@ -19,7 +19,7 @@
     "@fortawesome/fontawesome-free": "^5.11.2",
     "angularjs-toaster": "^2.0.0",
     "adal-node": "^0.1.22",
-    "angular": "~1.7.9",
+    "angular": "~1.8.0",
     "angular-animate": "~1.7.9",
     "angular-applicationinsights": "^0.2.8",
     "angular-bootstrap": "~0.12.2",
